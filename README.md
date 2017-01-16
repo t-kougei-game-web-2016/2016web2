@@ -1,5 +1,5 @@
-# 2016web2
-東京工芸大学 ゲーム学科 WebプログラミングⅡ(2016年度）
+# 東京工芸大学 ゲーム学科 WebプログラミングⅡ(2016年度）
+## 最終成果物
 
 * [supermonkey777](https://supermonkey777.github.io/2016web2/)
 * [takamasa-kujirai](https://takamasa-kujirai.github.io/2016web2/)

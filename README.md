@@ -11,9 +11,8 @@
 * [yuki-takamura](https://yuki-takamura.github.io/2016web2/)
 * [DebugonSan](https://DebugonSan.github.io/2016web2/)
 * [nisimakihiroki1205](https://nisimakihiroki1205.github.io/2016web2/)
-* [g1527061](https://g1527061.github.io/2016web2/)
+* g1527061
 * [g1527066](https://g1527066.github.io/2016web2/)
 * [mitsuru1397](https://mitsuru1397.github.io/2016web2/)
 * [rapurasusann](https://rapurasusann.github.io/web2016-web2/)
 * [waday1](https://waday1.github.io/2016web2/)
-
